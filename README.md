@@ -3,8 +3,6 @@
 ![Version Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Froutinehub.co%2Fapi%2Fv1%2Fshortcuts%2F17843%2Fversions%2Flatest&query=%24.Version&label=Version&labelColor=green&color=%23320932)
 <a href="https://routinehub.co/shortcut/17843/"><img alt="Download on RoutineHub" src="https://img.shields.io/badge/Download_On-RoutineHub-%23ee3535"></a>
 
-An iOS Shortcut to help make potions in Skyrim.
-
 ![Skyrim Alchemy Tool Hero Screenshots](https://github.com/jpasholk/skyrim-alchemy-tool/blob/main/img/skyrim-alchemy-tool-hero.png?raw=true)
 
 A tool that runs in the iOS Shortcuts app to help create potions in Skyrim.
